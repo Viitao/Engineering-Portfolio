@@ -1,4 +1,4 @@
-# Engineering-Portfolio# 🚗 Suspension System Analysis
+# Engineering-Portfolio# 🚗 
 
 **Objective:** Design, CAD modeling, and structural analysis of a double wishbone suspension for a race car.  
 This project demonstrates skills in 3D modeling, FEA simulation, and report writing.
@@ -14,14 +14,16 @@ This project demonstrates skills in 3D modeling, FEA simulation, and report writ
 ---
 
 ## 🖼️ Preview
-![Suspension CAD](img/render.png)
+
 
 ---
 
 ## 🔧 Tools & Software
 - SolidWorks 2023  
 - ANSYS Workbench  
-- Python 3.11  
+- Python 3.11
+- MAthLAB
+- Excel
 
 ---
 

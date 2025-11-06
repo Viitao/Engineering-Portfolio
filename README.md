@@ -6,7 +6,7 @@ This project demonstrates skills in 3D modeling, FEA simulation, and report writ
 ---
 
 ## 📂 Contents
-- **/CAD** → SolidWorks part and assembly files  
+- **/CAD** → SolidWorks and FreeCAD part and assembly files  
 - **/Analysis** → ANSYS results and PDF technical report  
 - **/Code** → Python script for data processing  
 - **/img** → Renders and preview images  
@@ -19,18 +19,11 @@ This project demonstrates skills in 3D modeling, FEA simulation, and report writ
 ---
 
 ## 🔧 Tools & Software
-- SolidWorks 2023  
+- FreeCAD  
 - ANSYS Workbench  
 - Python 3.11
 - MAthLAB
 - Excel
-
----
-
-## 📊 Results
-- Max displacement: **1.2 mm** under 5000 N load  
-- Factor of Safety: **2.8**  
-- Weight reduction: **15%** compared to the initial design  
 
 ---
 
